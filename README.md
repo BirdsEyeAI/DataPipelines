@@ -1,5 +1,5 @@
 # DataPipelines
-ML Series Day 1: Exploring datasets with Pandas
+ML Series Day 1: Deep dive on how to explore your datasets for use in ML and AI applications. 
 
 <h2>Introduction</h2>
 In this first installment of machine learning projects I will cover the basics of working with Pandas to process data into a dataframe. 
